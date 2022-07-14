@@ -6,7 +6,6 @@ const char* hostname = "OWN_HOST_NAME";
 
 /* TODO: LEER NUMEROS DESDE SPIFFS */
 
-
 IPAddress ip(192, 168, 1, 222);
 IPAddress gateway(192, 168, 1, 1);
 IPAddress subnet(255, 255, 255, 0);
